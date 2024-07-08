@@ -1,1 +1,1 @@
-# simulated-stock-project
+# simulated-stock-project-server
